@@ -3,7 +3,7 @@ Hi, I'm Anietie Asuquo, a Software Engineer, Entrepreneur, and ardent advocate f
 ## About Me
 
 - 💻 Engineering: Rust, Java, Kotlin, TypeScript, Python, Solidity, NodeJs, React, AWS, GCP, Docker, Kubernetes, Terraform, DataDog, etc.
-- 🚀 Entrepreneur: [Mintaval](https://www.mintaval.com/).
+- 🚀 Entrepreneur: [Monchain](https://www.monchain.com/).
 - 🎨 Open Source Contributor: [testcontainers](https://www.npmjs.com/package/testcontainers/), [GCloud](https://node.testcontainers.org/modules/gcloud/), [NodeJS ecosystem](https://node.testcontainers.org/).
 - 🌟 Creator: [CoinSentry](https://chromewebstore.google.com/detail/mncakliaaolcahepkmnbnfjdmfaedlik), [TSPA](https://www.npmjs.com/package/tspa) NPM library.
 - 💼 Interests: AI, Deep Learning, FinTech, Blockchain, Cryptocurrencies, NFTs, Metaverse.
