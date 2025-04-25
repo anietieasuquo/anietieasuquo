@@ -1,4 +1,4 @@
-Hi, I'm Anietie Asuquo, a Software Engineer, Entrepreneur, and ardent advocate for open-source collaboration. Delving into the depths of code, infrastructure, and innovation, I endeavour to leave an indelible mark on the technological landscape.
+Hi, I'm Anietie Asuquo, a Senior Software Engineer, Entrepreneur, and ardent advocate for open-source collaboration. Delving into the depths of code, infrastructure, and innovation, I endeavour to leave an indelible mark on the technological landscape.
 
 ## About Me
 
